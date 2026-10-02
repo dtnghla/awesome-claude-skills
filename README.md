@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [ste-lite](https://github.com/dtnghla/ste-lite) - Rewrite agent replies with ASD-STE100 Simplified Technical English rules: one topic per sentence, literal words, and numbered steps. Includes a checker script.
 
 
 ## 📘 Learning & Knowledge  
